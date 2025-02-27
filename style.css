@@ -61,5 +61,6 @@ h4 {
     cursor: pointer;
     &:hover {
         background-color: hsl(0, 0%, 40%);
+        transform: scale(1.05);
     }
 }
