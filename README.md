@@ -31,7 +31,7 @@ Kullanıcılar aşağıdakileri yapabilmelidir:
 ## Bağlantılar
 
 - Çözüm URL: [GitHub Deposu](https://github.com/doganayurgupluoglu/fmsocialkartvizit)
-- Canlı Site URL: [Canlı Demo](https://your-live-site-url.com)
+- Canlı Site URL: [Vercel](https://fmsocialkartvizit.vercel.app/)
 
 ## Sürecim
 
